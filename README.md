@@ -67,3 +67,4 @@ mail.ru group, Методология управления проектом
 # Языки:
 Русский - родной  
 Английский - A1
+https://dukeldecker.github.io/rsschool-cv/cv

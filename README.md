@@ -1,4 +1,5 @@
-# rsschool-cv
+# rsschool-cv  
+https://dukeldecker.github.io/rsschool-cv/
 # Ruslan Teslyuk
   Телефон: +7 (915) 531-89-92  
 Электронная почта: dukeldecker@gmail.com  
@@ -67,3 +68,4 @@ mail.ru group, Методология управления проектом
 # Языки:
 Русский - родной  
 Английский - A1
+https://dukeldecker.github.io/rsschool-cv/cv
